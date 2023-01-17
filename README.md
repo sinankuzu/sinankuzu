@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinankuzu)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋, Sinan Kuzu
-#### Full Stack Development
+#### Front-end Development Development
 ![Full Stack Development](https://4.bp.blogspot.com/-1PsTPGMBDGY/VxYPEqV3dvI/AAAAAAAAJxk/E33dyemsG7MKpthT0BkQqzdQod_xPUP9QCLcB/s1600/code-1076536_640.jpg)
 
 
