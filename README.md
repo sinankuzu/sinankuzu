@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 #### Full Stack Development
 ![Full Stack Development](https://4.bp.blogspot.com/-1PsTPGMBDGY/VxYPEqV3dvI/AAAAAAAAJxk/E33dyemsG7MKpthT0BkQqzdQod_xPUP9QCLcB/s1600/code-1076536_640.jpg)
 
-brurayi doldurucam
 
 Skills: JS / REACT /Python/ HTML / CSS/QSS
 
